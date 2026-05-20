@@ -27,7 +27,7 @@ The project focuses on analyzing OCD patient data to identify trends, severity p
 
 ## 📷 Dashboard Preview
 
-![OCD Dashboard](dashboard.png)
+![Dashboard Preview](Dashboard,.png)
 
 > Add your dashboard screenshot in the repository and save it as *dashboard.png*
 
